@@ -1,5 +1,5 @@
 # ProofIT_Test_Task
- This a Test Task for Proof IT Java Developer Position<br/>
+ This a Test Task for Proof IT Java Developer Position by Mārtiņš Gailis<br/>
 ### Used tech stack:<br/>
 Java 1.8.0_202<br/>
 Gradle 7.4.1<br/>
