@@ -15,7 +15,7 @@ Are calculated and shown in the console. <br/>
 Total price = 29.04 EUR
 
 ### Launching project multiple times
-To launch the project multiple times you must close the used localhost port (8080). If you are using windows machine go to cmd and type commands: <br/>
+To launch the project multiple times you must close the used localhost port (8080). If you are using a windows machine go to cmd and type commands: <br/>
 netstat -ano <br/>
 A list with used ports will show up, after that, find yours (8080) and the PID next to it and type in cmd: <br/>
 TASKKILL /F /PID #typeyourpidnumberhere
