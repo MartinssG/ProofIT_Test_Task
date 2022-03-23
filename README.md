@@ -11,7 +11,7 @@ Adult carrying two bags <br/>
 Child carrying one bag <br/>
 With tax rate of VAT = 21% <br/>
 
-Are calculated. <br/>
+Are calculated and shown in the console. <br/>
 Total price = 29.04 EUR
 
 ### Launching project multiple times
