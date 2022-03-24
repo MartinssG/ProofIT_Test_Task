@@ -6,7 +6,7 @@ Gradle 7.4.1<br/>
 Spring framework<br/>
 Eclipse IDE<br/>
 ### Implementation
-When program is launched, a simple RESTful API is created with a single JSON object which contains key/value pairs of bus transport route, current tax rate and bus ticket price. API is accessible at endpoint - http://localhost:8080/busrouteandtax. After accessing the create RESTful API, JSON object is read, and ticket prices for: <br/>
+When program is launched, a simple RESTful API is created with a single JSON object which contains key/value pairs of bus transport route, current tax rate and bus ticket price. API is accessible at endpoint - http://localhost:8080/busrouteandtax. After accessing the created RESTful API, JSON object is read, and ticket prices for: <br/>
 Adult carrying two bags <br/>
 Child carrying one bag <br/>
 With tax rate of VAT = 21% <br/>
